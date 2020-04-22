@@ -52,7 +52,7 @@ Only if your work includes sending instructions on accessing various WooCommerce
 * **This is irreversible** as there's no backup of custom table anywhere outside of your device
 * Please also note that **there is no warning** prior to removing a custom item
 
-#### How to update?
+## How to update?
 
 * **If you don't have any custom navigation paths added:** just delete the existing workflow, and install new one
 
