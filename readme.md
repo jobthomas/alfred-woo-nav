@@ -52,3 +52,14 @@ Only if your work includes sending instructions on accessing various WooCommerce
 * **This is irreversible** as there's no backup of custom table anywhere outside of your device
 * Please also note that **there is no warning** prior to removing a custom item
 
+#### How to update?
+
+* **If you don't have any custom navigation paths added:** just delete the existing workflow, and install new one
+
+* **If you have custom navigation paths added:**
+    1. Right-click on workflow and open the folder in finder
+    2. Copy the `custom.db` file to a different folder
+    3. Delete the workflow
+    4. Install the latest version of workflow
+    5. Open the workflow folder in finder, and replae the `custom.db` file with the one you copied in `step 2`.
+    6. All your custom path should now be retained.
